@@ -26,14 +26,14 @@
     "clsx": "^1.2.1",
     "framer-motion": "^10.11.2",
     "html-to-image": "^1.11.11",
-    "langchain": "^0.0.49",
+    "langchain": "^1.6.0",
     "next": "13.1.6",
     "next-auth": "^4.19.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "superjson": "1.9.1",
-    "zod": "^3.20.2"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
